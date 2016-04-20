@@ -1,8 +1,8 @@
 {
   "name": "react-router-pageslider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "pageslider based on react-router",
-  "main": "index.js",
+  "main": "react-router-pageslider.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
