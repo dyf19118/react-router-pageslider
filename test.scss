@@ -1,0 +1,42 @@
+@import 'normalize.scss';
+
+/* page styles */
+#content {
+	overflow: hidden;
+}
+.page {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	padding: 10px;
+	transform: translate3d(0, 0, 0);
+	&.page-right {
+		transform: translate3d(100%, 0, 0);
+	}
+	&.page-center {
+		transform: translate3d(0, 0, 0) !important;
+	}
+	&.page-left {
+		transform: translate3d(-100%, 0, 0);
+	}
+	&.active {
+		transition: transform .4s;
+	}
+
+	.link {
+		display: block;
+		font-size: 200%;
+		color: white;
+	}
+}
+#page1 {
+	background-color: #8af;
+}
+#page2 {
+	background-color: #a8f;
+}
+#page3 {
+	background-color: #f8a;
+}
