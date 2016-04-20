@@ -51,7 +51,7 @@ const YourContainerComponent = React.createClass({
 	}
 });
 ```
-see more in [demo code](demo.html) shown above.
+see more in [demo code](test.html) shown above.
 ## Why it born
 I found there's no handy plugin based on react-router to make this effect. I tried to use ReactCSSTransitionGroup to achieve this effect but failed. As a result...
 
