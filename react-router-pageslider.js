@@ -1,6 +1,5 @@
-import ReactDom from 'react-dom';
-
 (function() {
+	const ReactDom = require('react-dom');
 
 	const PageSlider = (options = {}) => {
 		

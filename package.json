@@ -1,0 +1,24 @@
+{
+  "name": "react-router-pageslider",
+  "version": "1.0.2",
+  "description": "pageslider based on react-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyf19118/react-router-pageslider.git"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "pageslider"
+  ],
+  "author": "dyf19118",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyf19118/react-router-pageslider/issues"
+  },
+  "homepage": "https://github.com/dyf19118/react-router-pageslider#readme"
+}
