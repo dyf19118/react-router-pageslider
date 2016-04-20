@@ -5,6 +5,9 @@ Making page slide as route changes.
 ## Installation
 ``` npm i react-router-pageslider ```
 
+## Watch Out
+An ES6 compiler such as [babel](http://babeljs.io/) is required within your workflow, which transpiles your ES6 code into ES5(defined in .babelrc file).
+
 ## Basic Usage
 
 ### Mixin
