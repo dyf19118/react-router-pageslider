@@ -8,6 +8,9 @@ Making page slide once route changes.
 ## Watch Out
 An ES6 compiler such as [babel](http://babeljs.io/) is required within your workflow, which transpiles your ES6 code into ES5(defined in .babelrc file).
 
+## Online Demo
+[on jsfiddle](https://jsfiddle.net/dyf19118/h5pLvcLy/)
+
 ## Basic Usage
 
 ### Mixin
