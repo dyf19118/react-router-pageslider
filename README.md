@@ -1,6 +1,6 @@
 # react-router-pageslider
 React Router PageSlider is implemented with react-router, based on hashHistory. served as mixin of components.
-Making page slide as route changes.
+Making page slide once route changes.
 
 ## Installation
 ``` npm i react-router-pageslider ```
