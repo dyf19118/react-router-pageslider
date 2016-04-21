@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDom from 'react-dom';
 import { Router, Route, IndexRoute, Link, hashHistory } from 'react-router';
 import ReactTransitionGroup from 'react-addons-transition-group';
-import ReactRouterPageSlider from './react-router-pageslider';
+import ReactRouterPageSlider from 'react-router-pageslider';
 	
 const PageSlider = ReactRouterPageSlider();
 
